@@ -1,0 +1,43 @@
+[
+  {
+    "library": "rxjs",
+    "identifiers": [
+      {
+        "identifier": "of"
+      }
+    ]
+  },
+  {
+    "library": "rxjs",
+    "identifiers": [
+      {
+        "identifier": "from",
+        "alias": "newFrom"
+      }
+    ]
+  },
+  {
+    "library": "rxjs/operators",
+    "identifiers": [
+      {
+        "identifier": "map",
+        "alias": "MAP"
+      }
+    ]
+  },
+  {
+    "library": "rxjs",
+    "identifiers": [
+      {
+        "identifier": "Observable"
+      },
+      {
+        "identifier": "Subject"
+      },
+      {
+        "identifier": "BehaviorSubject",
+        "alias": "behavior"
+      }
+    ]
+  }
+]
